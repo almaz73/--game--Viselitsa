@@ -3,6 +3,6 @@ REACT + REDUX + FLEXBOX <br/>
 
 Проект работает на стандартной рекомендованной сборке create-react-app <br/>
 после минификации чтобы всё работало, нужно указать в package.json адрес так:
-"homepage": "http://muSite.ru/myDirs/thisProject".
+"homepage": "http://muSite.ru/myDirs/thisProject".<br/>
 
-<а href = "http://fmap.ru/games/game/viselitsa/index.html">ДЕМО</a>
+<a href="http://fmap.ru/games/game/viselitsa/index.html"> ДЕМО </a>
