@@ -1,7 +1,7 @@
-react+redaux+flexbox
+REACT + REDUX + FLEXBOX <br/>
 Игра "Виселица"
 
-Проект собран работает на стандартной рекомендованной сборке create-react-app
+Проект работает на стандартной рекомендованной сборке create-react-app <br/>
 после минификации чтобы всё работало, нужно указать в package.json адрес так:
 "homepage": "http://muSite.ru/myDirs/thisProject".
 
