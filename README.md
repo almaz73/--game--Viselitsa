@@ -1,3 +1,5 @@
+[ДЕМО](http://fmap.ru/games/game/viselitsa/index.html) 
+
 REACT + REDUX + FLEXBOX <br/>
 Игра "Виселица"
 
@@ -5,4 +7,3 @@ REACT + REDUX + FLEXBOX <br/>
 после минификации чтобы всё работало, нужно указать в package.json адрес так:
 "homepage": "http://muSite.ru/myDirs/thisProject".<br/>
 
-<a href="http://fmap.ru/games/game/viselitsa/index.html"> ДЕМО </a>
