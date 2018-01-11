@@ -1,4 +1,6 @@
-[ДЕМО](http://fmap.ru/games/game/viselitsa/index.html) 
+&#9822; [ДЕМО](http://fmap.ru/games/game/viselitsa/index.html) 
+======
+
 
 REACT + REDUX + FLEXBOX <br/>
 Игра "Виселица"
